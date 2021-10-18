@@ -5,12 +5,17 @@ contributor:
     agent_name: McSweeney, Edward F.
     gutenberg_agent_id: '53793'
     url: http://www.gutenberg.org/2009/agents/53793
+covers:
+- cover_type: archival
+  image_path: 66398-h/images/cover.jpg
 creator:
   author:
     agent_name: Bois, William Edward Burghardt Du
     gutenberg_agent_id: '53792'
     url: http://www.gutenberg.org/2009/agents/53792
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66398#The-Gift-of-Black-Folk-The-Negroes-in-the-Making-of-America
 gutenberg_issued: '2021-09-27'
 identifiers:
   gutenberg: '66398'
